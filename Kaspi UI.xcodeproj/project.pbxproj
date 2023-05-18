@@ -13,6 +13,8 @@
 		4FB0A92D2A150562008FE37E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FB0A92C2A150562008FE37E /* Preview Assets.xcassets */; };
 		4FB0A92F2A150562008FE37E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB0A92E2A150562008FE37E /* Persistence.swift */; };
 		4FB0A9322A150562008FE37E /* Kaspi_UI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4FB0A9302A150562008FE37E /* Kaspi_UI.xcdatamodeld */; };
+		4FB0A9392A1628C5008FE37E /* Page2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB0A9382A1628C5008FE37E /* Page2.swift */; };
+		4FB0A93B2A163277008FE37E /* Page3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB0A93A2A163277008FE37E /* Page3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		4FB0A92C2A150562008FE37E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4FB0A92E2A150562008FE37E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		4FB0A9312A150562008FE37E /* Kaspi_UI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Kaspi_UI.xcdatamodel; sourceTree = "<group>"; };
+		4FB0A9382A1628C5008FE37E /* Page2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2.swift; sourceTree = "<group>"; };
+		4FB0A93A2A163277008FE37E /* Page3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				4FB0A92E2A150562008FE37E /* Persistence.swift */,
 				4FB0A9302A150562008FE37E /* Kaspi_UI.xcdatamodeld */,
 				4FB0A92B2A150562008FE37E /* Preview Content */,
+				4FB0A9382A1628C5008FE37E /* Page2.swift */,
+				4FB0A93A2A163277008FE37E /* Page3.swift */,
 			);
 			path = "Kaspi UI";
 			sourceTree = "<group>";
@@ -145,8 +151,10 @@
 			files = (
 				4FB0A92F2A150562008FE37E /* Persistence.swift in Sources */,
 				4FB0A9282A150561008FE37E /* ContentView.swift in Sources */,
+				4FB0A93B2A163277008FE37E /* Page3.swift in Sources */,
 				4FB0A9322A150562008FE37E /* Kaspi_UI.xcdatamodeld in Sources */,
 				4FB0A9262A150561008FE37E /* Kaspi_UIApp.swift in Sources */,
+				4FB0A9392A1628C5008FE37E /* Page2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
